@@ -1,7 +1,6 @@
 # Solid Quickstart
 
-![Netlify + Solid](https://user-images.githubusercontent.com/43764894/223558736-6cf48156-2316-419d-8be9-e318ecf0e4be.png)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f644bd6a-540c-45e3-b718-b1e008558802/deploy-status)](https://app.netlify.com/projects/uuchanmp/deploys)
 This template's goal is to showcase the routing features of Solid.
 It also showcase how the router and Suspense work together to parallelize data fetching tied to a route via the `.data.ts` pattern.
 
